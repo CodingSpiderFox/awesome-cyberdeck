@@ -32,7 +32,7 @@ General overview about pocket computers and cyberdecks
 - (TODO) [History](http://example.com) (find good article) 
 
 ## Open Hardware
-
+- [Pilet - 7 hour battery life based on Raspi5 - announced to be open-sourced once engineering completed](https://soulscircuit.com/pilet)
 ### 
 
 ### DIY-Kits
