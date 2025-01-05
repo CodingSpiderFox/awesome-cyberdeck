@@ -58,6 +58,10 @@ For these you cannot buy pre-manufactured casings and stuff at the point of addi
 
 TODO
 
+## Semi-Commercial (uses commercial parts at least)
+
+- [Mainboard Terminal - Retro Style - based on Framework Laptop Mainboard](https://github.com/penk/MainboardTerminal)
+
 ## Commercial
 
 The commercially available products are listed here. 
