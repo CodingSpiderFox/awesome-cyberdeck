@@ -47,6 +47,7 @@ For these you cannot buy pre-manufactured casings and stuff at the point of addi
 - [BenMakesEverything](https://github.com/BenMakesEverything/cyberdeck)
 - [Decktility](https://github.com/ByteWelder/Decktility)
 - [Framedeck](https://github.com/brickbots/framedeck)
+- [Pi 5 based 3D printed](https://www.reddit.com/r/cyberDeck/comments/1h2lvjk/3d_printed_cyberdeck_powered_by_raspberry_pi_5/#lightbox)
 - [QAZ](https://github.com/g1sbi/qaz-cyberdeck)
 
 ### Video Tutorials
